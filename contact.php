@@ -13,10 +13,10 @@
 			<!-- Card 1 -->
 			<div class="card mb-3">
 				<div class="row no-gutters">
-					<div class="col-md-4">
-						<img src="..." class="card-img" alt="...">
+					<div class="col-md-3">
+						<img src="img/tippe.jpg" class="contact-img card-img" alt="...">
 					</div>
-					<div class="col-md-8">
+					<div class="col-md-9">
 						<div class="card-body">
 							<h5 class="card-title">Tippe van Roosmalen</h5>
 							<p class="card-text">Studentnummer: 2153265</p>
