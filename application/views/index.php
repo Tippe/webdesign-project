@@ -15,6 +15,7 @@
 			<div class="collapse" id="collapseExample">
 				<div class="card card-body">
 					Hello World!
+					<img src="l3dmk0f2bvg11 2.0.jpg" alt="">
 				</div>
 			</div>
 		</div>
