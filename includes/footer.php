@@ -1,5 +1,5 @@
 		<!-- End of the page-specific content. -->
-		<footer class="page-footer pt-4 bg-primary text-light fixed-bottom">
+		<footer class="page-footer pt-4 bg-primary text-light sticky-bottom">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">

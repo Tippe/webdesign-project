@@ -48,6 +48,17 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="row">
+		<div class="col-mb-12">
+			<div class="card">
+				<div class="card-body">
+					<h6 class="card-text">deze website is gemaakt door: Tippe van Roosmalen en Pieter Bakker in het kader van informatica</h6>
+					<h6 class="card-text">de website is onze eindopdracht voor het vak: Webdesign en Studievaardigheden (periode 1)</h6>
+				</div>
+			</div>
+		</div>
+	</div>		
 </div>
 
 <?php include "includes/footer.php"; ?>
