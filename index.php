@@ -10,14 +10,8 @@
 
 	<div class="row">
 		<div class="col-md-12">
-			<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Content</button>
-
-			<div class="collapse" id="collapseExample">
-				<div class="card card-body">
-					Hello World!
-					<img src="img/l3dmk0f2bvg11 2.0.jpg" alt="">
-				</div>
-			</div>
+			<h2>Studie Informatica</h2>
+			<p>donder hier text neer</p>
 		</div>
 	</div>
 </div>
