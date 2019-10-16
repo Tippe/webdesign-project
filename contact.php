@@ -34,13 +34,13 @@
 			<div class="card mb-3">
 				<div class="row no-gutters">
 					<div class="col-md-4">
-						<img src="..." class="card-img" alt="...">
+						<img src="img/pasfoto_pieter.jpg" class="card-img" alt="...">
 					</div>
 					<div class="col-md-8">
 						<div class="card-body">
 							<h5 class="card-title">Pieter Bakker</h5>
-							<p class="card-text">Studentnummer: </p>
-							<p class="card-text">E-mail: @student.avans.nl</p>
+							<p class="card-text">Studentnummer: 2160778</p>
+							<p class="card-text">E-mail: pk.bakker@student.avans.nl</p>
 							<p class="card-text">Klas: 23INVT1C</p>
 						</div>
 					</div>
