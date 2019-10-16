@@ -5,6 +5,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<h1>Contact</h1>
+			<h4>deze website is gemaakt door de volgende 2 personen</h4>
 		</div>
 	</div>
 
@@ -53,8 +54,7 @@
 		<div class="col-mb-12">
 			<div class="card">
 				<div class="card-body">
-					<h6 class="card-text">deze website is gemaakt door: Tippe van Roosmalen en Pieter Bakker in het kader van informatica</h6>
-					<h6 class="card-text">de website is onze eindopdracht voor het vak: Webdesign en Studievaardigheden (periode 1)</h6>
+					<h6 class="card-text">deze website is onze eindopdracht voor het vak: Webdesign en Studievaardigheden (periode 1), in het kader van informatica</h6>
 				</div>
 			</div>
 		</div>
