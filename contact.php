@@ -5,14 +5,14 @@
 	<div class="row">
 		<div class="col-md-12">
 			<h1>Contact</h1>
-			<h4>deze website is gemaakt door de volgende 2 personen</h4>
+			<h5>Deze website is gemaakt door de volgende 2 personen</h5>
 		</div>
 	</div>
 
 	<div class="row">
 		<div class="col-12">
 			<!-- Card 1 -->
-			<div class="card mb-3">
+			<div class="card mb-3 mt-3">
 				<div class="row no-gutters">
 					<div class="col-md-3">
 						<img src="img/tippe.jpg" class="contact-img card-img" alt="...">
@@ -51,10 +51,14 @@
 	</div>
 
 	<div class="row">
-		<div class="col-mb-12">
-			<div class="card">
-				<div class="card-body">
-					<h6 class="card-text">deze website is onze eindopdracht voor het vak: Webdesign en Studievaardigheden (periode 1), in het kader van informatica</h6>
+		<div class="col-md-12">
+			<div class="card mb-3">
+				<div class="row no-gutters">
+					<div class="col-md-12">
+						<div class="card-body">
+							<h6 class="card-text">deze website is onze eindopdracht voor het vak: Webdesign en Studievaardigheden (periode 1), in het kader van informatica</h6>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

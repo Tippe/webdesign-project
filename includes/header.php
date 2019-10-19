@@ -10,7 +10,7 @@
 
 	<body>
 		<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-			<a class="navbar-brand text-light">Eind Opdracht Webdesign</a>
+			<a class="navbar-brand text-light" href="index.php">Eind Opdracht Webdesign</a>
 			<ul class="navbar-nav">
 				<li class="nav-item">
 					<a class="nav-link" href="index.php">Home</a>
