@@ -9,7 +9,7 @@
 	</head>
 
 	<body>
-		<nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+		<nav class="navbar navbar-expand-lg bg-primary navbar-dark">
 			<a class="navbar-brand text-light" href="index.php">
 				<h2>Eind Opdracht Webdesign</h2>
 			</a>
