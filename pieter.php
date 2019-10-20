@@ -29,7 +29,7 @@
 					<div class="collapse" id="leerdoelen">
 						<div class="card card-body">
 							<h5 class="card-title">S.M.A.R.T. leerdoelen</h5>
-							<p>leerdoel 1: Ik ga vanaf week 6 elke week minimaal 21 uur thuis aan school besteden waardoor ik een grotere kans heb om alle opdrachten af te hebben en de behandelde stof onder de knie te krijgen.</p>
+							<p>Leerdoel 1: Ik ga vanaf week 6 elke week minimaal 21 uur thuis aan school besteden waardoor ik een grotere kans heb om alle opdrachten af te hebben en de behandelde stof onder de knie te krijgen.</p>
 							<p>Leerdoel 2: Gedurende projecten en verslagen wil ik een duidelijke planning maken met wat er moet gebeuren en wanneer het af moet zijn zodat niet alles op de laatste dag gedaan word.</p>
 							<p>Leerdoel 3: Ik zorg dat ik vanaf week 6 elke dag iets voor school doe waarbij de noodzakelijke dingen eerst gedaan worden. Dus eerst verslagen, projecten en toetsen, daarna oefeningen en dergelijke zonder deadlines.</p>
 							<p>Leerdoel 4: Ik wil de behandelde stof begrijpen en geen achterstand opbouwen. Dit ga ik doen door elke les aanwezig te zijn en de oefen opdrachten en het huiswerk te maken.</p>						
