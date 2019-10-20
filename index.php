@@ -20,7 +20,9 @@
 	<div class="row">
 		<div class="col-md-12 col-sm-12">
 			<p>
-			Gedurende het eerste, en ons huidige, schooljaar word je bekend gemaakt met de verschillende onderwerpen binnen informatica zoals: programmeren, web design, databases en bedrijfsprocessen. Hierbij word je de basis geleerd zodat je “eenvoudige” code kan schrijven en websites kunt bouwen. De manier van les bestaat vooral uit uitleg krijgen waarna je zelfstandig opdrachten en oefeningen maakt om deze kennis toe te passen en te begrijpen. Daarnaast komen er een aantal groeps opdrachten/projecten langs waardoor je leert om in groepsverband en met scrum te werken. Op de website van Avans is een duidelijk overzicht van de vakken en de bijbehorende periodes en studie jaren te vinden.</p>
+			Gedurende het eerste, en ons huidige, schooljaar word je bekend gemaakt met de verschillende onderwerpen binnen informatica zoals: programmeren, web design, databases en bedrijfsprocessen. Hierbij word je de basis geleerd zodat je “eenvoudige” code kan schrijven en websites kunt bouwen. De manier van les bestaat vooral uit uitleg krijgen waarna je zelfstandig opdrachten en oefeningen maakt om deze kennis toe te passen en te begrijpen. Daarnaast komen er een aantal groepsopdrachten/projecten langs waardoor je leert om in groepsverband te werken en hoe je scrum moet gebruiken.
+			Als we wat gedetailleerder kijken naar de start van de opleiding kunnen we zeggen dat, hoewel je de eerste week al gewoon les hebt, het tempo niet te hoog ligt en het niveau ook niet. Je begint namelijk echt bij de basis van de vakken en hierbij word duidelijk uitgelegd wat de functie is van elk relevant element zodat je ook echt weet waarvoor staat. Het tempo is zoals eerder vermeld niet te hoog maar wel zodanig dat een achterstand van 2 weken weg werken moeilijk is en de moeilijkheidsgraad gaat ook met elke week stevig omhoog. In andere worden kan je dus zeggen dat ervaring niet nodig is in de opleiding maar het helpt uiteraard wel als je al het een en ander weet, zeker als je projecten moet doen en de stof moeilijk word. Wat betreft de vakken vanaf week 1, deze kun je zien op de website van Avans. hier is een duidelijk overzicht van de periodes en de vakken die hierin behandeld worden.
+			</p>
 		</div>
 	</div>
 
@@ -28,7 +30,7 @@
 		<div class="col-md-12 col-sm-12">
 			<p> 
 			Het tweede jaar bestaat, net als jaar 1, uit lessen en geen stage. Je krijgt hierbij nieuwe vakken waarin je naar complexe zaken gaat kijken zoals machine learning en algoritmes. 
-			Jaar 3 en 4 bestaan grotendeels uit stage  waar jaar 3 redelijk 50/50 is verdeeld en jaar 4 juist voor het grootste deel is gericht op de afstudeer stage.
+			Jaar 3 en 4 bestaan o.a. uit stage  waar jaar 3 redelijk 50/50 is verdeeld en jaar 4 juist voor het grootste deel bestaat uit een stage, namelijk de afstudeer stage.
 			</p>
 		</div>
 	</div>

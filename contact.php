@@ -35,7 +35,7 @@
 			<div class="card mb-3">
 				<div class="row no-gutters">
 					<div class="col-md-3">
-						<img src="img/pasfoto_pieter.jpg" class="contact-img card-img" alt="...">
+						<img src="img/foto_pieter.jpg" class="contact-img card-img" alt="...">
 					</div>
 					<div class="col-md-9">
 						<div class="card-body">

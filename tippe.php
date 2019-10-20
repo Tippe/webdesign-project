@@ -10,7 +10,7 @@
 
 	<div class="row">
 		<div class="col-md-12">
-			<h5>Valkuilend studiemethode:</h5>
+			<h5>Valkuilen studiemethode:</h5>
 			<p>Ik heb erg moeite met het plannen van dingen. Ik heb meestal een vaag idee wanneer ik ergens aan ga werken en plan daardoor erg weinig. Als ik iets plan dan is dat vaak een dag of een paar dagen van te voren.</p>
 			<h5>S.M.A.R.T.</h5>
 		</div>

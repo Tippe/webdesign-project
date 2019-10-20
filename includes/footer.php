@@ -30,7 +30,7 @@
 	  				</div>
 		    		<div class="col-md-2">
 			    		<div class="media">
-	  						<img src="img/pasfoto_pieter.jpg" class="mr-3 img-fluid">
+	  						<img src="img/foto_pieter.jpg" class="mr-3 img-fluid">
 	  					</div>
 	  				</div>
 	  				<div class="col-md-2">
