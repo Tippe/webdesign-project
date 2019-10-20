@@ -9,17 +9,19 @@
 	</head>
 
 	<body>
-		<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-			<a class="navbar-brand text-light" href="index.php">Eind Opdracht Webdesign</a>
+		<nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+			<a class="navbar-brand text-light" href="index.php">
+				<h2>Eind Opdracht Webdesign</h2>
+			</a>
 			<ul class="navbar-nav">
 				<li class="nav-item">
 					<a class="nav-link" href="index.php">Home</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Link 1</a>
+					<a class="nav-link" href="tippe.php">Tippe</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Link 2</a>
+					<a class="nav-link" href="pieter.php">Pieter</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="contact.php">Contact</a>

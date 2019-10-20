@@ -1,14 +1,49 @@
 		<!-- End of the page-specific content. -->
-		<footer class="page-footer pt-4 bg-primary text-light sticky-bottom">
+		<footer class="page-footer py-4 bg-dark text-light sticky-bottom">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6">
-				        <h5>Footer </h5>
-				        <p>Here you can use rows and columns to organize your footer content.</p>
+					<div class="col-md-3">
+				        <h5>Over Ons</h5>
+				        <a class="text-light" href="contact.php">Neem contact op</a>
 		    		</div>
+		    		<div class="col-md-3">
+		    			<h5>Links</h5>
+		    			<ul class="list-unstyled">
+			    			<li>
+			    				<a class="text-light" href="index.php">Home</a>
+			    			</li>
+			    			<li>
+			    				<a class="text-light" href="tippe.php">Tippe</a>
+			    			</li>
+			    			<li>
+			    				<a class="text-light" href="pieter.php">Pieter</a>
+			    			</li>
+			    			<li>
+			    				<a class="text-light" href="contact.php">Contact</a>
+			    			</li>
+		    			</ul>
+		    		</div>
+		    		<div class="col-md-2">
+			    		<div class="media">
+	  						<img src="img/Avans_Hogeschool_Logo.png" class="mr-3 img-fluid">
+	  					</div>
+	  				</div>
+		    		<div class="col-md-2">
+			    		<div class="media">
+	  						<img src="img/pasfoto_pieter.jpg" class="mr-3 img-fluid">
+	  					</div>
+	  				</div>
+	  				<div class="col-md-2">
+			    		<div class="media">
+	  						<img src="img/tippe.jpg" class="mr-3 img-fluid">
+	  					</div>
+	  				</div>
 		    	</div>
 			</div>
 		</footer>
+		<div class="bg-secondary text-center py-3 text-light">
+			Deze website is gemaakt door: Tippe van Roosmalen & Pieter Bakker ~ <i><?= date('Y'); ?></i>
+		</div>
 
 	</body>
 
