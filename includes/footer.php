@@ -25,7 +25,7 @@
 		    		</div>
 		    		<div class="col-md-2">
 			    		<div class="media">
-	  						<img src="img/Avans_Hogeschool_Logo.png" class="mr-3 img-fluid">
+	  						<a href="https://nl.wikipedia.org/wiki/Bestand:Avans_Hogeschool_Logo.svg" target="_blank"><img src="img/Avans_Hogeschool_Logo.png" class="mr-3 img-fluid"></a>
 	  					</div>
 	  				</div>
 		    		<div class="col-md-2">
