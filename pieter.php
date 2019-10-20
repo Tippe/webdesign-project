@@ -21,12 +21,12 @@
 	<div class="row">
 		<div class="col-md-9">
 			<p>
-				<a class="btn btn-primary" data-toggle="collapse" href="#specifiek" role="button" aria-expanded="false" aria-controls="specifiek">leerdoelen</a>
+				<a class="btn btn-primary" data-toggle="collapse" href="#leerdoelen" role="button" aria-expanded="false" aria-controls="leerdoelen">leerdoelen</a>
 			</p>
 
 			<div class="row pb-3">
 				<div class="col-md-12">
-					<div class="collapse" id="specifiek">
+					<div class="collapse" id="leerdoelen">
 						<div class="card card-body">
 							<h5 class="card-title">S.M.A.R.T. leerdoelen</h5>
 							<p>leerdoel 1: Ik ga vanaf week 6 elke week minimaal 21 uur thuis aan school besteden waardoor ik een grotere kans heb om alle opdrachten af te hebben en de behandelde stof onder de knie te krijgen. 
@@ -43,12 +43,12 @@
 			</div>
 
 			<p>
-				<a class="btn btn-primary" data-toggle="collapse" href="#meetbaar" role="button" aria-expanded="false" aria-controls="meetbaar">reflectie</a>
+				<a class="btn btn-primary" data-toggle="collapse" href="#reflectie" role="button" aria-expanded="false" aria-controls="reflectie">reflectie</a>
 			</p>
 
 			<div class="row pb-3">
 				<div class="col-md-12">
-					<div class="collapse" id="Meetbaar">
+					<div class="collapse" id="reflectie">
 						<div class="card card-body">
 							<h5 class="card-title">reflectie</h5>
 							De afgelopen 2 weken heb ik een aantal leerdoelen gesteld met als doel betere prestaties te behalen wat betreft school. Laat ik beginnen met wat goed is gegaan wat betreft deze doelen namelijk mijn tijdsbesteding, deze bestond al uit 10 tot 15 uur per week  en is opgelopen tot ongeveer 20 uur in week 7. In de studie/lesvrije week is dit tegen de  40 uur geworden. Dit kwam doordat er een fout in mijn Mendix applicatie zat die ik niet kon oplossen,  dit had als resultaat dat ik obsessief en enigszins geïrriteerd bleef zoeken naar een oplossing omdat de niet werkende functie voorheen wel heeft gewerkt. Mijn gedrag in deze situatie heeft geresulteerd dat er kostbare tijd verloren is gegaan die bedoeld was voor het maken van het volgende project, namelijk een website bouwen. 
@@ -59,12 +59,12 @@ Een ander doel dat goed ging was het elke dag iets voor school doen hoewel dit w
 			</div>
 
 			<p>
-				<a class="btn btn-primary" data-toggle="collapse" href="#acceptabel" role="button" aria-expanded="false" aria-controls="acceptabel">verbeterpunt</a>
+				<a class="btn btn-primary" data-toggle="collapse" href="#verbeterpunt" role="button" aria-expanded="false" aria-controls="verbeterpunt">verbeterpunt</a>
 			</p>
 
 			<div class="row pb-3">
 				<div class="col-md-12">
-					<div class="collapse" id="acceptabel">
+					<div class="collapse" id="verbeterpunt">
 						<div class="card card-body">
 							<h5 class="card-title">verbeterpunt</h5>
 							Wat ik in de toekomst duidelijk moet verbeteren is mijn planning. Zo begin ik vaak een kleine week voor de deadline van een project met het maken ervan wat in principe genoeg tijd is maar het probleem is dat ik niet altijd goed inschat hoeveel tijd iets kost en niet eerder begin als ik in de dagen na het verslag nog meer toetsen of projecten heb. Dit heeft dan als resultaat dat het eerste project wel  af is zonder echte tijdsnood maar de projecten en/of verslagen kort erna worden gehaast gemaakt en/of slecht voor geleerd.  
