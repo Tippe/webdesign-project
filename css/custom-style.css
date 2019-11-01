@@ -2,3 +2,15 @@ contact-img{
     height: 205px !important;
     width: 165px !important;
 }
+
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
+img-fluid {
+	max-width: 100%;
+	height: auto;
+}

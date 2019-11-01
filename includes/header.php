@@ -2,29 +2,33 @@
 	<head>
 		<title>Eind Opdracht Website</title>
 		<meta charset="UTF-8">
-		<!-- Bootstrap 4.3.1 -->
-		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
 		<!-- Custom CSS Styling -->
 		<link href="css/custom-style.css" rel="stylesheet">
+
+		<!-- Bootstrap CSS 3.4.1 -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
 	</head>
 
 	<body>
-		<nav class="navbar navbar-expand-lg bg-primary navbar-dark">
-			<a class="navbar-brand text-light" href="index.php">
-				<h2>Eind Opdracht Webdesign</h2>
-			</a>
-			<ul class="navbar-nav">
-				<li class="nav-item">
-					<a class="nav-link" href="index.php">Home</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="tippe.php">Tippe</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="pieter.php">Pieter</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="contact.php">Contact</a>
-				</li>
-			</ul>
+		<nav class="navbar navbar-inverse">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>                        
+					</button>
+					<a class="navbar-brand" href="index.php">Eind Opdracht Webdesign</a>
+				</div>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<ul class="nav navbar-nav">
+						<li><a href="index.php">Home</a></li>
+						<li><a href="tippe.php">Tippe</a></li>
+						<li><a href="pieter.php">Pieter</a></li>
+						<li><a href="contact.php">Contact</a></li>
+					</ul>
+				</div>
+			</div>
 		</nav>
