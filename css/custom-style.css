@@ -14,3 +14,56 @@ img-fluid {
 	max-width: 100%;
 	height: auto;
 }
+
+.style {
+    background-color: darkgray;
+    font-style: italic;
+    color: greenyellow;
+}
+
+a:hover {
+    background-color: black;
+    font-weight: bolder;
+}
+
+.btn-darkmode {
+    border: 2px solid black;
+    color: red !important;
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+.darkmode:hover {
+    background-color: 646363;
+}
+
+.darkmode:active {
+    background-color: black;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+.highlight {
+    font-style: italic;
+    color: FF7D0A;
+}
+
+.fat {
+    font-weight: bold;
+}
+
+.darkmode {
+    background-color: 404040;
+    color: red;
+}
+
+.lightmode {
+    background-color: white;
+    color: black;
+}
+
+.responsive {
+    width: 80%;
+    height: auto;
+}
