@@ -1,9 +1,5 @@
 <?php include "includes/header.php"; ?>
 
-
-<button class="btn btn-darkmode" onclick="myFunction()"> Dark mode aan/uit </button>
-
-
 <div class="container">
 
 	<div class="row">
@@ -19,7 +15,7 @@
 				gevolgd word bij Avans in Breda. Deze 4 jaren zijn als volgt ingedeeld waarbij we dieper gaan kijken naar het eerste jaar.</p>
 		</div>
 		<div class="col-md-4 col-sm-12">
-			<img class="img-fluid" src="img/Avans_Hogeschool_Logo.png" alt="https://nl.wikipedia.org/wiki/Bestand:Avans_Hogeschool_Logo.svg" />
+			<img class="img-responsive" src="img/Avans_Hogeschool_Logo.png" alt="https://nl.wikipedia.org/wiki/Bestand:Avans_Hogeschool_Logo.svg" />
 		</div>
 	</div>
 
@@ -52,6 +48,7 @@
 			<p class="fat"> klik <a href="https://www.avans.nl/"><span class="highlight"> hier </span></a> om naar de Avans website te gaan </p> 
 		</div>
 	</div>
+</div>
 
 <script src="Javascript/index.js" type="text/javascript"></script>
 

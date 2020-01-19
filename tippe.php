@@ -25,7 +25,7 @@
 
 			<div class="row pb-3">
 				<div class="col-md-12">
-					<div class="collapse" id="Leerdoelen">
+					<div class="collapse" id="leerdoelen">
 						<div class="card card-body">
 							<h5 class="card-title">SMART Leerdoelen</h5>
 							<p>Leerdoel 1: Ik ga beter plannen hoe ik mijn huiswerk en leerwerk indeel per week. Daarmee ben ik van plan aan het begin van de week mijn dagen in te vullen voor de hele week en daarbij zetten wat ik welke dag ga doen. En als er huiswerk is midden in de week dat dezelfde week nog af moet vul ik de week hier op aan en pas ik mogelijk al eerder geplande taken aan. Ik ga in mijn agenda plannen opschrijven per dag en dat nakomen in de praktijk. Ik accepteer dit doel en vind dat het erg goed kan helpen om beter te studeren. Hierdoor verwijder ik stress dat mogelijk gecreëerd kan worden door niks te plannen en moeten haasten aan het einde van een deadline. Dit doel is zeer zeker te halen. Ik ben er goed toe in staat het doel te halen. Ik zou aan het einde van (elke) week kunnen terugkijken of ik het doel heb gehaald om alle taken af te krijgen en/of aan te werken wanneer gepland. Maar specifiek voor deze opdracht is het tijdsgebonden aan 20 oktober 2019.</p>
@@ -44,7 +44,7 @@
 
 			<div class="row pb-3">
 				<div class="col-md-12">
-					<div class="collapse" id="Reflectie">
+					<div class="collapse" id="reflectie">
 						<div class="card card-body">
 							<h5 class="card-title">Reflectie</h5>
 							<p>De afgelopen 2 weken ben ik naar mijn leerdoelen gaan kijken. Ik ben aan mijn leerdoelen gaan werken om mijn manier van studeren te verbeteren. Dit bleek echter best moeilijk te zijn. Het inplannen van wanneer ik ergens aan ging werken bleek mij erg veel moeite te kosten aangezien het niet bepaald gelukt is. We zijn optijd begonnen aan de opdracht voor deze website. Maar omdat we zo vroeg begonnen zijn dachten we: "We hebben nog genoeg tijd. Dit komt wel goed". En daardoor hebben we een aantal dagen niks gedaan en heeft dat ons de laatste 3 dagen erg veel gekost. We kwamen een beetje in de stress doordat we de laatste 3 dagen veel aan de website gedaan hebben om het nog optijd af te krijgen.</p>
@@ -59,7 +59,7 @@
 
 			<div class="row pb-3">
 				<div class="col-md-12">
-					<div class="collapse" id="Verbeterpunt">
+					<div class="collapse" id="verbeterpunt">
 						<div class="card card-body">
 							<h5 class="card-title">Verbeterpunt</h5>
 							<p>Voor in de toekomst het plannen te gaan verbeteren gaan we direct beginnen aan de opdracht en plannen we voor het hele proces in totdat het af moet zijn om een mooi eindproduct te maken en een mooi cijfer binnen te slepen.</p>
