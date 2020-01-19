@@ -1,6 +1,6 @@
 <?php include "includes/header.php"; ?>
 
-<div class="container">
+<div id="op" class="container">
 
 	<div class="row">
 		<div class="col">
@@ -15,7 +15,8 @@
 				gevolgd word bij Avans in Breda. Deze 4 jaren zijn als volgt ingedeeld waarbij we dieper gaan kijken naar het eerste jaar.</p>
 		</div>
 		<div class="col-md-4 col-sm-12">
-			<img class="img-responsive" src="img/Avans_Hogeschool_Logo.png" alt="https://nl.wikipedia.org/wiki/Bestand:Avans_Hogeschool_Logo.svg" />
+
+			<a href="https://nl.wikipedia.org/wiki/Bestand:Avans_Hogeschool_Logo.svg" target="_blank"><img class="img-responsive" src="img/Avans_Hogeschool_Logo.png" alt="https://nl.wikipedia.org/wiki/Bestand:Avans_Hogeschool_Logo.svg"></a>
 		</div>
 	</div>
 
