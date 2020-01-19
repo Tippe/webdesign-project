@@ -5,9 +5,11 @@ contact-img{
 
 footer {
     position: fixed;
-    height: 100px;
     bottom: 0;
     width: 100%;
+    height: 60px;
+    background-color: #f5f5f5;
+    padding-top: 15px;
 }
 
 img-fluid {
@@ -34,16 +36,6 @@ a:hover {
     cursor: pointer;
   }
 
-.darkmode:hover {
-    background-color: 646363;
-}
-
-.darkmode:active {
-    background-color: black;
-    box-shadow: 0 5px #666;
-    transform: translateY(4px);
-  }
-
 .highlight {
     font-style: italic;
     color: FF7D0A;
@@ -51,16 +43,6 @@ a:hover {
 
 .fat {
     font-weight: bold;
-}
-
-.darkmode {
-    background-color: 404040;
-    color: red;
-}
-
-.lightmode {
-    background-color: white;
-    color: black;
 }
 
 .responsive {
